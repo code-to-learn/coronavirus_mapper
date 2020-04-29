@@ -1,0 +1,13 @@
+README.md
+setup.py
+coronavirus_mapper/__init__.py
+coronavirus_mapper/admin.py
+coronavirus_mapper/apps.py
+coronavirus_mapper/models.py
+coronavirus_mapper/tests.py
+coronavirus_mapper/views.py
+coronavirus_mapper.egg-info/PKG-INFO
+coronavirus_mapper.egg-info/SOURCES.txt
+coronavirus_mapper.egg-info/dependency_links.txt
+coronavirus_mapper.egg-info/top_level.txt
+coronavirus_mapper/migrations/__init__.py
